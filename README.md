@@ -10,7 +10,7 @@ One thing that everybody should know about me is that I Love technology and lear
 - 🏴‍☠️ OSCP from _Offensive Security_
 - 🏴‍☠️ Ethical Hacker from _Udacity_
 - 🧑🏻‍💻 Cloud Devops Engineer from _Udacity_
-- ☁️ AWS solutions architect professional from _AWS_
+- ☁️ AWS Solutions Architect Professional from _AWS_
 - 📈 Tableau Desktop Qualified Associate from _Tableu_
 - 🤖 Artificial Intelligence from _Udacity_
 
