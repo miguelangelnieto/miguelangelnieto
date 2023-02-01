@@ -11,7 +11,7 @@ One thing that everybody should know about me is that I Love technology and lear
 - 🏴‍☠️ Ethical Hacker from _Udacity_
 - 🧑🏻‍💻 Cloud Devops Engineer from _Udacity_
 - ☁️ AWS Solutions Architect Professional from _AWS_
-- 📈 Tableau Desktop Qualified Associate from _Tableu_
+- 📈 Tableau Desktop Qualified Associate from _Tableau_
 - 🤖 Artificial Intelligence from _Udacity_
 
 and many many more. If you want to know more about me, or to get my contact details, please visit [my website](https://miguelangelnieto.net).
